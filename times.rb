@@ -4,7 +4,3 @@ def using_times
     break
 	end
 end
-
-
-
-
